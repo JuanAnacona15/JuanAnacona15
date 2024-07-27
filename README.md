@@ -17,15 +17,25 @@ My main interest is to create technological solutions that can have a positive i
 ---
 
 ### 🔧 Technologies and Tools
-<p align="center"><b>Languages</b></p>
-<p align="center">
+<p><b>Languages: </b>
  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript">
- 
+ <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=%233776AB">
+<img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=java">
 </p>
-- **Languages:** Python, JavaScript, Java
-- **Frameworks:** React, Node.js, Django
-- **Databases:** MySQL, Firebase, MongoDB
-- **Others:** Git, Docker, Linux
+<p><b>Frameworks: </b>
+ <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react">
+ <img src="https://img.shields.io/badge/NodeJs-black?style=flat-square&logo=nodedotjs">
+</p>
+<p><b>Databases: </b>
+ <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase&logoColor=%23ffae00">
+ <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql">
+<img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb">
+</p>
+<p><b>Tools: </b>
+  <img src="https://img.shields.io/badge/Git-black?style=flat-square&logo=git">
+  <img src="https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=%23ffffff">
+  <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker">
+</p>
 
 ---
 
@@ -36,8 +46,11 @@ My main interest is to create technological solutions that can have a positive i
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Creative%20and%20Motivated-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Always%20Learning-orange?style=for-the-badge" />
-</p>
+### 🛠️ Bests Projects
 
+<a href="google.com" width="50%">
+  <img src="">
+</a>
+<a href="google.com" width="50%">
+  <img src="">
+</a>
