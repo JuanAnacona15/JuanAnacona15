@@ -46,14 +46,16 @@ My main interest is to create technological solutions that can have a positive i
 
 ---
 
-### 🛠️ Bests Projects
+### 🛠️ Best Projects
 
-<a href="https://github.com/JuanAnacona15/Carrefurgas" width="30%">
-  <img src="./Carrefurgas.png">
-</a>
-<a href="https://github.com/JuanAnacona15/Scrapper" width="30%">
-  <img src="./Scrapper.png">
-</a>
-<a href="https://github.com/JuanAnacona15/nasaBotT" width="30%">
-  <img src="./NasaBot.png">
-</a>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/JuanAnacona15/Carrefurgas" style="width: 30%;">
+    <img src="./Carrefurgas.png" style="width: 100%;">
+  </a>
+  <a href="https://github.com/JuanAnacona15/Scrapper" style="width: 30%;">
+    <img src="./Scrapper.png" style="width: 100%;">
+  </a>
+  <a href="https://github.com/JuanAnacona15/nasaBotT" style="width: 30%;">
+    <img src="./NasaBot.png" style="width: 100%;">
+  </a>
+</div>
