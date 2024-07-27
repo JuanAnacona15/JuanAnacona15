@@ -17,7 +17,11 @@ My main interest is to create technological solutions that can have a positive i
 ---
 
 ### 🔧 Technologies and Tools
-
+<p align="center"><b>Languages</b></p>
+<p align="center">
+ <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript">
+ 
+</p>
 - **Languages:** Python, JavaScript, Java
 - **Frameworks:** React, Node.js, Django
 - **Databases:** MySQL, Firebase, MongoDB
