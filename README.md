@@ -1,14 +1,12 @@
-# <div align="center">👋 Hi! I'm [Your Name] 👋</div>
+# <div align="center">👋 Hi! I'm Juan Anacona 👋</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Young%20Programmer%20from%20Colombia-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Passionate%20about%20Technology%20and%20Biotechnology-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Software%20Development%20Student-yellow?style=for-the-badge" />
+  <img src="./Banner.png">
 </p>
 
 ## About Me
 
-Hi! I'm [Your Name], a 16-year-old programmer from Colombia. Currently, I'm a student at the Instituto Técnico Industrial (IETI), specializing in Software Development. I'm passionate about technology and biotechnology, always looking for innovative ways to solve the problems our world faces.
+Hi! I'm Juan Anacona, a 16-year-old programmer from Colombia. Currently, I'm a student at the Instituto Técnico Industrial (IETI), specializing in Software Development. I'm passionate about technology and biotechnology, always looking for innovative ways to solve the problems our world faces.
 
 ---
 
